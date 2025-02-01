@@ -40,6 +40,6 @@ Português (Nativo)
 - Telefone: +55 (13) 98865-4001
 
  <a href="https://github.com/RCJGoodDoctor" title="Perfil do Ricardo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RCJGoodDoctor&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RCJGoodDoctor&theme=dracula&show_icons=true&include_all_commits=true&count_private=true" />
 </a>
 
